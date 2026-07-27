@@ -6,7 +6,7 @@ import math
 
 # Nodes
 IORT_Model_Name = "IORT Field"
-recurrenceMedoids = ['recidief1 medoid', 'recidief2 medoid', 'recidief3 medoid', 'recidief4 medoid'] # Change into the correct names
+recurrenceMedoids = ['recurrence1 medoid', 'recurrence2 medoid', 'recurrence3 medoid', 'recurrence4 medoid'] # Change into the correct names
 
 # Distance line visualization
 Plot_Lines = True
