@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # DISTANCE RECURRENCE MEDOID TO IORT FIELD
 # alternative: fiducial to model distance module
 import slicer
