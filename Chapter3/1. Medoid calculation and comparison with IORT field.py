@@ -13,7 +13,7 @@ recurrenceNames = ["recurrence1", "recurrence2", "recurrence3", "recurrence4"] #
 Max_Points = np.inf # optional, np.inf if you want to calculate for all points, 20000 in case of large tumours
 
 # Get input data
-segmentationNode = slicer.util.getNode(Segmentation_Node_Name)
+segmentationNode = slicer.util.getNode(Segmentation_Name)
 iortModelNode = slicer.util.getNode(IORT_Model_Name)
 
 # Make sure binary labelmap exists
