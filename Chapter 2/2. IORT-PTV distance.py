@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # IORT-PTV DISTANCE IN THE DIRECTION OF THE IORT FIELD NORMAL
 import slicer
 import vtk
