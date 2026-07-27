@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # RECURRENCE MEDOID VERSUS IORT FIELD
 import slicer
 import vtk
