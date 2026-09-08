@@ -4,9 +4,9 @@ In this repository, a collection of Python scripts developed for data processing
 
 The scripts include tools for:
 
-Chapter 2: Calculation of pointer usage duration and registration errors
-Chapter 3: Extraction of IOERT field surfaces and calculation of distances to the PTV
-Chapter 4: Calculation of recurrence medoids, determination of whether these medoids are located inside or outside the IOERT field and PTV, and calculation of medoid-to-IOERT field distances
+* Chapter 2: Calculation of pointer usage duration and registration errors.
+* Chapter 3: Extraction of IOERT field surfaces and calculation of distances to the PTV.
+* Chapter 4: Calculation of recurrence medoids, determination of whether these medoids are located inside or outside the IOERT field and PTV, and calculation of medoid-to-IOERT field distances.
 
 ## Usage
 
