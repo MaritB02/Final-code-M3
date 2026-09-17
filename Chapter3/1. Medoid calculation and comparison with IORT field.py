@@ -9,7 +9,7 @@ IORT_Model_Name = "IORT Field"
 
 recurrenceNames = ["recurrence1", "recurrence2", "recurrence3", "recurrence4"] # Change into the correct names
 
-# Optionel: put limit for faster calculations
+# Optional: put limit for faster calculations
 Max_Points = np.inf # optional, np.inf if you want to calculate for all points, 20000 in case of large tumours
 
 # Get input data
